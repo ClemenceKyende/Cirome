@@ -4095,3 +4095,28 @@ dl.hiw {
     width: 100%; } }
 
 /*# sourceMappingURL=style.css.map */
+
+#project-title,
+#project-description,
+#project-benefits {
+  visibility: none;
+}
+
+.single-image img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.btn-success {
+  background-color: #1ABC9C; /* CIROME green */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.btn-success:hover {
+  background-color: #1ABC9C;
+}

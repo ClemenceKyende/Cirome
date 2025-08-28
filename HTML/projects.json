@@ -1,0 +1,252 @@
+[
+  {
+    "id": "item1",
+    "title": "Completed Walling Work at Miritini, Mombasa",
+    "summary": "Secures and demarcates the property effectively.",
+    "description": "Construction of perimeter walls to enhance security and clearly define property boundaries at a strategic location in Miritini, Mombasa. The scope included excavation and foundation preparation, reinforced masonry walling, plastering, and final finishes to ensure long-term durability and functionality.",
+    "image": "images/item1.jpg",
+    "benefits": [
+      "Improves property security and access control",
+      "Enhances the visual appeal of the compound",
+      "Establishes clear and permanent property boundaries",
+      "Reduces unauthorized entry and vandalism risks",
+      "Increases property value and structural aesthetics"
+    ]
+  },
+
+  {
+  "id": "item2",
+  "title": "Elevated Water Tower",
+  "description": "This project involved the design and construction of a steel-framed elevated water tower to facilitate water distribution using gravity. The structure ensures sufficient water pressure and reliable supply across the property by elevating the tank to optimal height, while being engineered to withstand environmental and structural stresses.",
+  "summary": "Ensures stable water supply through elevation-based pressure and durable engineering.",
+  "image": "images/item2.jpg",
+  "benefits": [
+    "Provides consistent water flow across the facility",
+    "Reduces risk of water shortages",
+    "Improves water pressure using gravity",
+    "Designed to withstand wind and structural loads"
+  ]
+},
+
+  {
+  "id": "item3",
+  "title": "Ablution Block at AGOL Terminal Miritini",
+  "description": "This project entailed the development of sanitation infrastructure at the AGOL Terminal in Miritini, incorporating male and female washrooms. The work included installation of plumbing systems, ceramic tiling, adequate ventilation, and durable sanitary fittings to ensure high hygiene standards and user comfort.",
+  "summary": "Improves sanitation facilities for terminal users by providing safe, efficient, and hygienic restrooms.",
+  "benefits": [
+    "Enhances hygiene for staff and visitors",
+    "Ensures compliance with health and safety regulations",
+    "Includes durable and water-efficient fixtures",
+    "Improves user comfort and accessibility"
+  ],
+  "image": "images/item3.jpg"
+},
+
+  {
+  "id": "item4",
+  "title": "Osupuko Residential House",
+  "description": "This project involved the turnkey construction of a private residential home in Osupuko, designed with a contemporary layout, modern interior finishes, and essential utility installations. The house was tailored to meet the client’s comfort, aesthetic preferences, and long-term usability.",
+  "summary": "A modern, functional home built for durability, comfort, and long-term value.",
+  "benefits": [
+    "Tailored design to meet client lifestyle",
+    "Energy-efficient installations for reduced utility costs",
+    "Use of durable and modern finishes",
+    "Promotes long-term property value"
+  ],
+  "image": "images/item4.jpg"
+},
+
+  {
+  "id": "item5",
+  "title": "Paving and Drainage at AGOL Terminal Miritini",
+  "description": "This project involved the installation of durable cabro paving and integrated drainage systems at AGOL Terminal Miritini. The upgrades aimed to improve vehicular movement within the terminal and effectively manage surface water runoff, reducing the risk of flooding and surface wear.",
+  "summary": "Improves terminal accessibility and prevents flooding.",
+  "benefits": [
+    "Enhances surface durability for vehicle traffic",
+    "Prevents water stagnation and flooding",
+    "Increases site safety during rainy seasons",
+    "Improves terminal aesthetics and organization"
+  ],
+  "image": "images/item5.jpg"
+},
+
+  {
+  "id": "item6",
+  "title": "Ablution Block at AGOL Terminal, Miritini – Mombasa",
+  "description": "This project involved the construction of a secondary ablution facility at AGOL Terminal in Miritini, Mombasa. The structure was built with reinforced walls, efficient sewage systems, and high-quality finishes to ensure durability, ease of maintenance, and comfort for daily users.",
+  "summary": "Delivers essential sanitation services for users.",
+  "benefits": [
+    "Supports high-traffic sanitation needs",
+    "Designed for water conservation",
+    "Features low-maintenance interior finishes",
+    "Improves user hygiene and terminal standards"
+  ],
+  "image": "images/item6.jpg"
+},
+
+  {
+  "id": "item7",
+  "title": "Perimeter Walling at Eni Agrihub, Bonje – Miritini, Mombasa",
+  "description": "This project involved the construction of a reinforced masonry perimeter wall around the Eni Agrihub facility in Bonje, Miritini. The wall was built on a robust foundation system and integrated with anti-climb features to maximize security. Its design also aligns with the facility’s aesthetic and functional requirements.",
+  "summary": "Enhances security and defines the site boundary.",
+  "benefits": [
+    "Acts as a strong deterrent to unauthorized access",
+    "Reduces security-related operational risks",
+    "Increases physical safety of on-site assets",
+    "Complements the site's overall aesthetic"
+  ],
+  "image": "images/item7.jpg"
+},
+
+  {
+  "id": "item8",
+  "title": "Firewater Piping at Eni Agrihub",
+  "description": "This project entailed the installation of a comprehensive firewater piping network and hydrants throughout the Eni Agrihub facility. The system was designed to comply with fire safety standards, ensuring optimal coverage of fire-prone areas and seamless integration with existing water storage and supply systems for effective emergency response.",
+  "summary": "Provides essential firefighting infrastructure.",
+  "benefits": [
+    "Ensures rapid response to fire emergencies",
+    "Covers critical and fire-prone operational zones",
+    "Integrates efficiently with existing water tank systems",
+    "Supports regulatory compliance in fire safety"
+  ],
+  "image": "images/item8.jpg"
+},
+
+  {
+  "id": "item9",
+  "title": "Cabro Paving Works at Eni Agrihub",
+  "description": "This project involved the laying of high-quality cabro paving across internal roads and pedestrian walkways within the Eni Agrihub. The paving work was designed to enhance the site's visual appeal, improve durability under vehicular traffic, and support efficient surface water drainage.",
+  "summary": "Creates stable, low-maintenance, and visually appealing surfaces.",
+  "benefits": [
+    "Offers a low-maintenance surface solution",
+    "Enhances drainage and prevents water pooling",
+    "Improves access and movement for vehicles and pedestrians",
+    "Increases site aesthetics and usability"
+  ],
+  "image": "images/item9.jpg"
+},
+
+  {
+  "id": "item10",
+  "title": "Powerhouse Cable Trenches",
+  "description": "This project entailed the construction of underground concrete-encased trenches for routing electrical cables to and from the powerhouse. The trenching system ensures cable safety, organized infrastructure layout, and compliance with electrical engineering standards.",
+  "summary": "Protects underground power cabling systems and improves electrical infrastructure.",
+  "benefits": [
+    "Reduces the risk of cable damage from environmental and mechanical impact",
+    "Improves electrical safety across the site",
+    "Provides a clean and organized layout for power distribution",
+    "Supports long-term maintenance and scalability of electrical systems"
+  ],
+  "image": "images/projects/project10.jpg"
+},
+
+  {
+  "id": "item11",
+  "title": "Fire Water Tank Base, Sand and Bitumen Mix",
+  "description": "This project involved the construction of a durable base for a fire water tank using a compacted sand and bitumen mix. The design ensures the foundation can withstand the load of the filled tank while preventing water seepage and structural degradation over time.",
+  "summary": "Lays a strong and stable foundation for fire water systems.",
+  "benefits": [
+    "Withstands high water and load pressure",
+    "Extends the operational life of the fire tank",
+    "Prevents foundation seepage and erosion",
+    "Offers long-term structural integrity"
+  ],
+  "image": "images/item11.jpg"
+},
+
+  {
+  "id": "item12",
+  "title": "Storm Water Drainage Construction",
+  "description": "Implementation of a stormwater drainage system through excavation and installation of channels and culverts. This infrastructure is designed to efficiently manage surface runoff, protect structural foundations, and prevent waterlogging during heavy rains.",
+  "summary": "Manages excess water and prevents site flooding.",
+  "benefits": [
+    "Prevents soil erosion and foundation damage",
+    "Reduces surface water pooling and flooding risks",
+    "Enhances road and site longevity",
+    "Promotes safer and more accessible environments during rainy seasons"
+  ],
+  "image": "images/item12.jpg"
+},
+
+ {
+  "id": "item13",
+  "title": "Stone Pitching Works",
+  "description": "This project focused on stabilizing embankments and slopes through stone pitching, where hand-placed stones were set in mortar along erosion-prone areas. These works were implemented near drainage lines and roadways to control surface runoff, improve slope stability, and preserve soil integrity.",
+  "summary": "Protects slopes and embankments from erosion and water damage.",
+  "benefits": [
+    "Controls soil erosion during heavy rainfall",
+    "Strengthens structural integrity of nearby infrastructure",
+    "Minimizes long-term maintenance costs",
+    "Improves site aesthetics and stability"
+  ],
+  "image": "images/item13.jpg"
+},
+
+  {
+  "id": "item14",
+  "title": "Warehouse Construction",
+  "description": "CIROME Services successfully delivered a fully functional warehouse facility featuring structural steel framing, durable concrete flooring, weatherproof roofing, and integrated access points. The project also included ventilation systems and internal partitioning to support organized storage and efficient workflow.",
+  "summary": "Delivers a secure, functional space for storage and logistics operations.",
+  "benefits": [
+    "Supports safe storage of goods and materials",
+    "Enhances operational efficiency for supply chains",
+    "Built to withstand industrial use and environmental exposure",
+    "Includes ventilation and flexible interior layout"
+  ],
+  "image": "images/item14.jpg"
+},
+
+  {
+  "id": "item15",
+  "title": "Floor Finishes by Power Floating",
+  "description": "Specialized power floating techniques were applied to concrete floors to produce smooth, level, and high-strength surfaces. This method minimizes dusting, enhances abrasion resistance, and ensures long-term durability, making it ideal for both industrial and commercial settings.",
+  "summary": "Creates high-quality, durable concrete floor finishes.",
+  "benefits": [
+    "Increases floor lifespan and strength",
+    "Provides smooth surfaces for easy cleaning",
+    "Reduces cracking and surface dust",
+    "Improves abrasion resistance for heavy-duty use"
+  ],
+  "image": "images/item15.jpg"
+},
+
+  {
+  "id": "item16",
+  "title": "Residential Apartments Construction",
+  "description": "This multi-unit residential project involved the complete construction of apartment buildings, including structural frameworks, masonry, roofing, interior finishes, and full electrical and plumbing installations. Designed to meet modern urban housing needs, the apartments emphasize both functionality and comfort.",
+  "summary": "Provides modern, quality housing for residential tenants.",
+  "benefits": [
+    "Expands access to affordable and durable housing",
+    "Enhances community development and urban planning",
+    "Incorporates energy-efficient building systems",
+    "Improves quality of life in urban settings"
+  ],
+  "image": "images/item16.jpg"
+},
+
+ {
+  "id": "item17",
+  "title": "Rooftop Clay Tiling and Grouting for Waterproofing",
+  "description": "This project involved the precise installation of clay roofing tiles combined with thorough grouting to ensure long-lasting waterproofing and visual appeal. The process included preparing the roof surface, arranging tiles in a defined pattern, and sealing joints with grout for maximum protection.",
+  "summary": "Combines traditional aesthetics with effective waterproofing.",
+  "benefits": [
+    "Prevents roof leaks and moisture damage",
+    "Adds a durable and visually appealing finish to structures",
+    "Improves thermal insulation and energy efficiency"
+  ],
+  "image": "images/item17.jpg"
+},
+
+  {
+  "id": "item18",
+  "title": "Bridge Culvert Construction",
+  "description": "This project involved constructing a reinforced concrete bridge culvert to enable water flow beneath roadways while ensuring uninterrupted vehicle and pedestrian access. The scope included excavation, formwork, steel reinforcement, concrete pouring, and backfilling to stabilize the structure.",
+  "summary": "Enables safe road crossings over natural drainage paths.",
+  "benefits": [
+    "Improves road accessibility and safety during rainy seasons",
+    "Manages stormwater and natural streams without disrupting transport",
+    "Built to withstand high water flow and heavy vehicular loads"
+  ],
+  "image": "images/item18.jpg"
+}
+]

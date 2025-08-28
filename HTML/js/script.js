@@ -448,8 +448,3 @@ $(document).ready(function(){
 	
 });
 
-
-
-
-  
-  
